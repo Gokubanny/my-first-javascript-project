@@ -1,0 +1,605 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.park {
+  padding-top: 4%;
+  margin: 0%;
+}
+.pot {
+  margin-left: 15%;
+  margin-right: 10%;
+}
+nav ul li {
+  display: inline-block;
+  margin: 0 20px;
+  float: right;
+  margin-top: -1rem;
+}
+nav ul {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+div.house {
+  background-color: transparent;
+  height: 50px;
+  width: 100%;
+}
+.logo {
+  display: grid;
+  flex-direction: row;
+}
+nav {
+  background: radial-gradient(rgb(255, 238, 1), rgb(255, 0, 255));
+  color: black;
+  height: 150px;
+  width: 100%;
+}
+nav ul li a {
+  font-size: 17px;
+  padding: 7px 13px;
+  border-radius: 3px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.lot {
+  font-size: x-large;
+  font-family: sans-serif;
+  float: right;
+}
+.title-banner:first-child {
+  margin-top: 0;
+}
+.title-banner--secondary {
+  max-height: 400px;
+}
+.title-banner {
+  position: absolute;
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 84rem;
+  background-size: cover;
+  height: 42.5vw;
+  max-height: 500px;
+}
+.time {
+  top: 35rem;
+  position: absolute;
+}
+.t {
+  font-size: x-large;
+  font-family: sans-serif;
+  margin: 3%;
+  position: absolute;
+  display: inline-block;
+  top: 34rem;
+  left: 29rem;
+}
+.top {
+  margin: -1%;
+  position: absolute;
+  /* display: inline-block; */
+  top: 109rem;
+  left: 22px;
+}
+.border {
+  width: 105%;
+  position: absolute;
+  top: 47rem;
+}
+.borders {
+  border: solid 1px;
+  width: 106%;
+  position: absolute;
+  top: 610px;
+  left: 2px;
+}
+.lot {
+  font-size: x-large;
+  font-family: sans-serif;
+  margin: 3%;
+  position: absolute;
+  /* display: inline-block; */
+  top: 57rem;
+  left: 29rem;
+}
+.construction {
+  position: absolute;
+  left: 31rem;
+  top: 108rem;
+  font-size: x-large;
+}
+.f {
+  position: absolute;
+  left: 2rem;
+  top: 145rem;
+}
+.title-banner__heading {
+  padding-left: 19px;
+  padding-right: 14px;
+  font-size: 15.2rem;
+  color: transparent;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #fff;
+}
+.title-ban {
+  margin-top: -2rem;
+  margin-left: 13rem;
+  font-size: 5.2rem;
+  color: transparent;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+}
+.title-banners {
+  /* position: absolute; */
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin-left: auto;
+  margin-top: 0.5rem;
+  margin-right: auto;
+  background-size: cover;
+  height: 42.5vw;
+  max-height: 450px;
+}
+.title-banner__headings {
+  font-size: 12.2rem;
+  text-align: center;
+  /* font-weight: 1000; */
+  color: transparent;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+element.style {
+  background-image: url(https://conhpol.pl/wp-content/uploads/2022/05/Mask-Group-30.jpg.webp);
+}
+.title-banner--secondary {
+  max-height: 400px;
+}
+.title {
+  position: absolute;
+  background-repeat: no-repeat;
+  top: 505rem;
+  background-size: cover;
+  max-height: 813px;
+  display: -ms-flexbox;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.pot {
+  margin-top: 6rem;
+  margin-left: 3rem;
+  width: 19rem;
+  font-size: larger;
+}
+.free {
+  /* position: absolute; */
+  margin-top: -22rem;
+  margin-left: 60rem;
+  width: 18rem;
+  font-size: larger;
+}
+.award {
+  left: 180px;
+  top: 172rem;
+  width: 50px;
+  position: absolute;
+}
+.a {
+  top: 172rem;
+  position: absolute;
+  left: 31rem;
+}
+.pat {
+  margin-top: 0rem;
+  /* position: absolute; */
+  margin-left: 2rem;
+}
+.mat {
+  top: 172rem;
+  position: absolute;
+  left: 62rem;
+}
+.c {
+  margin-top: -14rem;
+  margin-left: 49rem;
+}
+.d {
+  margin-top: -18rem;
+  margin-left: 44rem;
+}
+.oit {
+  margin-top: 1rem;
+  margin-left: 3rem;
+  width: 16rem;
+  font-size: larger;
+}
+.blake {
+  margin-top: -11rem;
+  margin-left: 30rem;
+  width: 20rem;
+  font-size: larger;
+}
+.wild {
+  margin-top: -10.8rem;
+  margin-left: 28rem;
+  width: 16rem;
+  font-size: larger;
+}
+.shoe {
+  margin-top: -7.8rem;
+  margin-left: 55rem;
+  width: 22rem;
+  font-size: larger;
+}
+.dancing {
+  top: 723rem;
+  position: absolute;
+  left: 2rem;
+  font-size: xx-large;
+}
+.trekking {
+  top: 761rem;
+  position: absolute;
+  left: 61rem;
+  font-size: xx-large;
+}
+.comfortable {
+  top: 814rem;
+  position: absolute;
+  left: 1rem;
+  font-size: xx-large;
+}
+.communion {
+  top: 855rem;
+  position: absolute;
+  left: 54rem;
+  font-size: xx-large;
+}
+.sport {
+  top: 680rem;
+  position: absolute;
+  left: 65rem;
+  font-size: xx-large;
+}
+.casual {
+  top: 637rem;
+  position: absolute;
+  left: 6rem;
+  width: 23rem;
+  font-size: xx-large;
+}
+.elegant {
+  top: 579rem;
+  position: absolute;
+  left: 59rem;
+  width: 22rem;
+  font-size: xx-large;
+}
+.premium {
+  top: 546rem;
+  position: absolute;
+  left: 7rem;
+  width: 23rem;
+  font-size: xx-large;
+}
+.water {
+  margin-left: 4rem;
+  width: 16rem;
+  font-size: larger;
+}
+.comfort {
+  margin-top: 2rem;
+  margin-left: 56rem;
+  width: 22rem;
+  font-size: larger;
+}
+.sewn {
+  margin-top: 3rem;
+  margin-left: 56rem;
+  width: 22rem;
+  font-size: larger;
+}
+.moc {
+  margin-top: -9rem;
+  margin-left: 55rem;
+  width: 24rem;
+  font-size: larger;
+}
+.dan {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  width: 24rem;
+  font-size: larger;
+}
+.acc {
+  margin-left: 61rem;
+  margin-top: 6rem;
+  width: 19rem;
+  font-size: larger;
+}
+.san {
+  margin-top: 7rem;
+  margin-left: 3rem;
+  width: 19rem;
+  font-size: larger;
+}
+.oat {
+  margin-top: 2rem;
+  margin-left: 56rem;
+  width: 22rem;
+}
+.ma {
+  top: 172rem;
+  position: absolute;
+  left: 47rem;
+}
+.g {
+  position: absolute;
+  left: 463px;
+  top: 145rem;
+}
+.h {
+  position: absolute;
+  left: 897px;
+  top: 145rem;
+}
+.b {
+  margin-left: -2rem;
+  margin-top: -13rem;
+}
+.ack {
+  margin-top: -14rem;
+  margin-left: 49rem;
+}
+.e {
+  margin-top: -17rem;
+  margin-left: 3rem;
+}
+.m {
+  margin-top: -9rem;
+  margin-left: 32rem;
+}
+.l {
+  margin-top: -9rem;
+  margin-left: 7rem;
+}
+.jpg {
+  margin-left: 57rem;
+}
+.wodo {
+  margin-top: 6rem;
+  margin-left: 4rem;
+}
+.extra {
+  margin-top: -11rem;
+  margin-left: 30rem;
+}
+.pod {
+  margin-top: -10rem;
+  margin-left: 56rem;
+}
+.emma {
+  /* height: 42rem; */
+  position: absolute;
+  left: 35rem;
+  top: 704rem;
+  /* width: 49rem; */
+  animation-name: rita;
+  animation-iteration-count: infinite;
+  animation-duration: 5s;
+}
+@keyframes rita {
+  from {
+    background-image: url(./kolekcje-taneczne.jpg);
+    height: 45rem;
+    width: 50rem;
+  }
+  to {
+    background-image: url(./kolekcje-taneczne-Hover-State.jpg);
+  }
+}
+.demola {
+  height: 41rem;
+  position: absolute;
+  top: 620rem;
+  width: 51rem;
+  left: 30rem;
+  animation-name: ore;
+  animation-iteration-count: infinite;
+  animation-duration: 5s;
+}
+@keyframes ore {
+  from {
+    background-image: url(./casual-kolekcje-Hover-State.jpg);
+  }
+  to {
+    background-image: url(./casual-kolekcje.jpg);
+  }
+}
+.yaba {
+  height: 30rem;
+  position: absolute;
+  top: 661rem;
+  /* left: 32rem; */
+}
+.mask {
+  height: 30rem;
+  position: absolute;
+  top: 746rem;
+  left: 1rem;
+}
+.timi {
+  height: 44rem;
+  position: absolute;
+  top: 572rem;
+  left: 1rem;
+  width: 48rem;
+  animation-name: shut;
+  animation-iteration-count: infinite;
+  animation-duration: 5s;
+}
+@keyframes shut {
+  from {
+    background-image: url(./kolekcja-eleganckie-Hover-State.jpg);
+  }
+  to {
+    background-image: url(./kolekcja-eleganckie.jpg);
+  }
+}
+.mark {
+  height: 45rem;
+  position: absolute;
+  top: 529rem;
+  left: 30rem;
+  width: 52rem;
+  animation-name: dayo;
+  animation-iteration-count: infinite;
+  animation-duration: 5s;
+}
+@keyframes dayo {
+  from {
+    background-image: url(./premium.jpg);
+  }
+  to {
+    background-image: url(./premium-Hover-State.jpg);
+  }
+}
+.picto {
+  margin-top: -33rem;
+  margin-left: 57rem;
+}
+.rec {
+  margin-top: -16rem;
+  margin-left: 6rem;
+}
+.j {
+  margin-top: 2rem;
+  margin-left: 61rem;
+}
+.pat a:hover {
+  position: absolute;
+}
+.group {
+  top: 736rem;
+  position: absolute;
+  left: 5rem;
+  width: 23rem;
+  font-size: xx-large;
+}
+.put {
+  top: 796rem;
+  position: absolute;
+  left: 34rem;
+}
+.cats {
+  top: 835rem;
+  position: absolute;
+  pointer-events: stroke;
+}
+.uni {
+  top: 882rem;
+  position: absolute;
+  left: 37rem;
+  pointer-events: stroke;
+}
+.uniform {
+  top: 903rem;
+  position: absolute;
+  left: 2rem;
+  font-size: xx-large;
+}
+.footer2 {
+  background-color: #221f1fa1;
+  /* padding: 10px; */
+  height: 15rem;
+  width: 83rem;
+  box-shadow: -1px -1px 17px 2px #262222c7;
+  top: 951rem;
+  position: absolute;
+  text-align: center;
+  color: white;
+}
+.footer {
+  background-color: #77777752;
+  padding: 10px;
+  width: 82rem;
+  position: absolute;
+  top: 934rem;
+  box-shadow: 0px -3px 8px 1px black;
+  height: 15rem;
+  text-align: center;
+  color: white;
+}
+.border {
+  border: solid black 1px;
+  width: 91%;
+  position: absolute;
+  top: 81px;
+  left: 67px;
+}
+body {
+  margin: 0;
+  font-family: Lato, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+.search-bar {
+  height: 40px;
+  flex: 1;
+  width: 0;
+  min-width: 0;
+  padding-left: 12px;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  border: 1px solid #cccccc;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+  box-shadow: inset 0px 1px 2px #eeeeee;
+}
+input,
+button,
+select,
+optgroup,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+input[type="text" i] {
+  padding: 1px 2px;
+  padding: 8px;
+  width: 358px;
+}
+input {
+  writing-mode: horizontal-tb !important;
+  text-rendering: auto;
+  color: fieldtext;
+  letter-spacing: normal;
+  word-spacing: normal;
+  line-height: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: start;
+  appearance: auto;
+  -webkit-rtl-ordering: logical;
+  cursor: text;
+  background-color: field;
+  margin: 0em;
+  padding: 1px 2px;
+  border-width: 2px;
+  border-style: inset;
+  border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+  border-image: initial;
+}
